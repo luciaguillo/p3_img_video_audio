@@ -1,0 +1,26 @@
+/*RESET html*/
+*{
+    margin:0;
+    padding:0px;
+    /* box-sizing: border-box; */
+}
+ul li{
+    list-style-type: none;
+}
+/*encapzalamiento*/
+header{
+    background-color:coral;
+    padding: 40px;
+    margin: 0 0 20px 0;
+
+}
+/*menú*/
+nav{
+    background-color:lightgoldenrodyellow;
+    padding: 20px;
+
+}
+/*cuerpo*/
+main{
+    background-color:wheat;
+}
